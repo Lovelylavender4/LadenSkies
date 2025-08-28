@@ -371,3 +371,5 @@ FodyWeavers.xsd
 .vscode/
 /CMakeSettings.json
 mod/plugins/
+
+*.1
