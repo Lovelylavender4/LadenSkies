@@ -373,3 +373,4 @@ FodyWeavers.xsd
 mod/plugins/
 
 *.1
+/mod/newest/plugins/LadenSkies.dll
