@@ -1,0 +1,4 @@
+CeilingDrips: 0.6847826
+Effects: Darkness-0.4782609-40-96, 
+PlacedObjects: NoSpearStickZone><477.738><259.1996><165~204, 
+FadePalette: 8, 0.1630435
