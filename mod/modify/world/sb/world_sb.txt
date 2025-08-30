@@ -1,0 +1,23 @@
+[MERGE]
+
+CONDITIONAL LINKS
+Saint : SB_GOR01 : SB_GOR02, DISCONNECTED, SB_S06, SB_H03 : SWARMROOM
+Rivulet : SB_GOR01 : SB_GOR02, DISCONNECTED, SB_S06, SB_H03 : SWARMROOM
+END CONDITIONAL LINKS
+
+ROOMS
+SB_GOR01 : SB_GOR02, SB_LSA01, SB_S06, SB_H03 : SWARMROOM
+SB_LSA01 : DISCONNECTED, DISCONNECTED, SB_LSC01, SB_GOR01
+SB_LSC01 : DISCONNECTED, SB_LSA01, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED
+END ROOMS
+
+CREATURES
+(X-Yellow,Rivulet,Red,Artificer,Spear,Inv,Saint)SB_GOR01 : 4-Small Centipede-5, 6-Blue, 7-Small Centipede-5
+(Yellow)SB_GOR01 : 4-Small Centipede-4, 4-Centipede-2, 7-Small Centipede-2
+(Rivulet)SB_GOR01 : 4-Small Centipede-4, 4-Yeek-3, 7-Yeek-2
+(Red,Artificer,Spear)SB_GOR01 : 4-Small Centipede-5, 4-Centipede-2, 5-BigSpider-5, 6-Blue, 7-Small Centipede-5
+(Inv)SB_GOR01 : 4-Small Centipede-5, 4-RedCentipede-2, 5-Spider-5, 6-Red, 7-Small Centipede-5
+(Saint)SB_GOR01 : 4-Small Centipede-4, 4-Yeek-3-{Winter}, 7-Yeek-2-{Winter}
+END CREATURES
+
+[ENDMERGE]

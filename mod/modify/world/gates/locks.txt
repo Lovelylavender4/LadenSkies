@@ -1,1 +1,0 @@
-[ADD]GATE_LF_CRTT : 3 : 5

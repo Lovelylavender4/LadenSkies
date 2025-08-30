@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0
+Palette: 21
+EffectColorA: 19
+EffectColorB: 6
+Effects: FireFlies-0-1086-518, LightBurn-0.5760869-1086-464, 
+PlacedObjects: GooieDuck><652.0038><479.55><72~9~2~5, GooieDuck><607.9097><473.1296><129~94~2~3, DangleFruit><3296.374><398.4068><42~49~2~3, DangleFruit><3310.093><370.1243><37~0~2~3, DangleFruit><3267.155><376.88><57~152.9998~2~3, 
