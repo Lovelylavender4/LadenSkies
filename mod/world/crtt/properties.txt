@@ -1,1 +1,4 @@
 Subregion : Cross regional transportation tunnel
+Room Setting Templates: TUNNEL
+Room_Attr: GATE_CRTT_SB: Overseer-Forbidden,
+Room_Attr: CRTT_A01: Overseer-Forbidden,
